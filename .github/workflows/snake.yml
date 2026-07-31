@@ -21,6 +21,6 @@ jobs:
         with:
           build_dir: dist
           jekyll: false
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PUBLISH_BRANCH: output
