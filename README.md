@@ -51,12 +51,6 @@
 
 </div>
 
-
-<!-- ============ Snake ============ -->
-<div align="center">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/hey-Chloe/hey-Chloe/output/github-contribution-grid-snake.svg" />
-</div>
-
 <!-- ============ Footer (a cat lives here) ============ -->
 <div align="center">
   <picture>
