@@ -18,3 +18,9 @@ Learning:
 - Vulnerability Research
 - LLM Application
 - AI Agent
+
+---
+
+## 🐍 Contribution Snake
+
+![snake animation](https://raw.githubusercontent.com/hey-Chloe/hey-Chloe/output/github-contribution-grid-snake.svg)
