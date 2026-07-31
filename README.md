@@ -1,32 +1,167 @@
-<!-- Dynamic typing effect -->
+<!-- ============ Bloom Header ============ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&center=true&size=27&lines=console.log(%22Hello%2C+World%22);" />
+  <picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&center=true&size=27&lines=System.out.println(%22Hello%2C+World%22);" />
+    <source media="(prefers-color-scheme: dark)" srcset="bloom-header-night.svg" />
+
+    <img src="bloom-header.svg" width="900" alt="hey-Chloe — blooming banner" />
+
+  </picture>
 
 </div>
 
 
+<!-- ============ Sky ============ -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi%2C+I'm+Chloe;AI+%26+Cyber+Security+Student" />
+  <picture>
 
-<p>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/>
-<strong>Exploring AI Applications & Security Engineering.</strong>
-</p>
+    <source media="(prefers-color-scheme: dark)" srcset="sky-night.svg" />
 
+    <img src="sky.svg" width="900" alt="sky" />
 
-<p>
-<code>🎓 Undergraduate Student</code>
-&nbsp;
-<code>📍 Jiangsu, China</code>
-</p>
+  </picture>
 
 </div>
 
 
----
+<br/>
 
+
+<!-- ============ Introduction ============ -->
+
+<div align="center">
+
+
+<img src="chips/python.svg" />
+<img src="chips/pytorch.svg" />
+<img src="chips/fastapi.svg" />
+<img src="chips/docker.svg" />
+
+
+<br/><br/>
+
+
+<img src="chips/label-0.svg" />
+
+<img src="chips/langchain.svg" />
+<img src="chips/llamaindex.svg" />
+
+
+<br/><br/>
+
+
+<h3>
+🌱 AI Application & Cyber Security Student
+</h3>
+
+
+<p>
+Building intelligent security tools with AI.
+</p>
+
+
+</div>
+
+
+
+<br/>
+
+
+<!-- ============ About ============ -->
+
+
+<div align="center">
+
+
+## 👩‍💻 About Me
+
+
+🎓 Undergraduate Student
+
+
+🛡 Cyber Security
+
+
+🤖 AI Application
+
+
+🔥 Building:
+
+<a href="https://github.com/hey-Chloe/RuleForge-SAST">
+
+RuleForge-SAST
+
+</a>
+
+
+<br/>
+
+A lightweight SAST tool based on Semgrep.
+
+
+Learning:
+
+- Web Security
+- Vulnerability Research
+- LLM Application
+- AI Agent
+
+
+</div>
+
+
+
+<br/>
+
+
+<!-- ============ Stats ============ -->
+
+<div align="center">
+
+
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=hey-Chloe&hide_border=true&background=00000000" />
+
+
+</div>
+
+
+<br/>
+
+
+<!-- ============ Snake ============ -->
+
+<div align="center">
+
+
+<img 
+alt="github contribution snake"
+src="https://raw.githubusercontent.com/hey-Chloe/hey-Chloe/output/github-contribution-grid-snake.svg"
+/>
+
+
+</div>
+
+
+<br/>
+
+
+<!-- ============ Footer ============ -->
+
+<div align="center">
+
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="garden-footer-night.svg" />
+
+<img src="garden-footer.svg" width="900" alt="garden footer" />
+
+</picture>
+
+
+</div>
