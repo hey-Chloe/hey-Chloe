@@ -1,36 +1,32 @@
-## Hi there 👋
-<!-- 动态打字效果 -->
+<!-- Dynamic typing effect -->
+
 <div align="center">
-  <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);&center=true&size=27" />
-  </div>
-  <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=System.out.println(%22Hello%2C%20World%22);&center=true&size=27" />
-  </div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&center=true&size=27&lines=console.log(%22Hello%2C+World%22);" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&center=true&size=27&lines=System.out.println(%22Hello%2C+World%22);" />
+
 </div>
-Hi 👋 I'm Chloe
 
-🎓 Undergraduate Student
 
-🛡 Cyber Security
-🤖 AI Application
+<div align="center">
 
-Currently building:
+<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi%2C+I'm+Chloe;AI+%26+Cyber+Security+Student" />
 
-🔥 RuleForge-SAST
-A lightweight SAST tool based on Semgrep
+<p>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/>
+<strong>Exploring AI Applications & Security Engineering.</strong>
+</p>
 
-Learning:
 
-- Web Security
-- Vulnerability Research
-- LLM Application
-- AI Agent
+<p>
+<code>🎓 Undergraduate Student</code>
+&nbsp;
+<code>📍 Jiangsu, China</code>
+</p>
+
+</div>
+
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cynicism-lab/Cynicism-lab/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cynicism-lab/Cynicism-lab/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cynicism-lab/Cynicism-lab/output/github-contribution-grid-snake.svg">
-</picture>
