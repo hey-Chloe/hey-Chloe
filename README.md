@@ -2,7 +2,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="bloom-header-night.svg" />
-    <img src="bloom-header(1).svg" width="900" alt="hey-Chloe — blooming banner" />
+    <img src="bloom-header.svg" width="900" alt="hey-Chloe — blooming banner" />
   </picture>
 </div>
 
