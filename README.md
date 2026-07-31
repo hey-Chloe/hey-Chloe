@@ -1,9 +1,8 @@
-<!-- ============ Bloom Header (day / night follows your theme) ============ -->
+<!-- ============ Bloom Header ============ -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="bloom-header-night.svg" />
-    <img src="bloom.svg" width="900" alt="hey-Chloe — blooming banner" />
-  </picture>
+
+<img src="./bloom.svg" width="900" alt="hey-Chloe blooming banner" />
+
 </div>
 
 <!-- ============ Sky ============ -->
