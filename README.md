@@ -44,6 +44,21 @@
 </div>
 
 
+<!-- ============ Featured Work ============ -->
+<div align="center">
+
+### Featured work
+
+| Project | What to inspect |
+|---|---|
+| [MiniClaudeCode Studio](https://github.com/hey-Chloe/MiniClaudeCode-Studio) | Local agent runtime UI, checkpoint/resume flow, approval handling, and release validation notes. |
+| [KAI Offline RecSys Lab](https://github.com/hey-Chloe/KAI-Offline-RecSys-Lab) | Offline recommendation-system experiments with deterministic metrics, retrieval baselines, and reproducible reports. |
+| [ProofCut](https://github.com/hey-Chloe/proofcut) | Evidence-first content packaging pipeline with risk checks, local web demo, and publication manifests. |
+| [AI research evidence](https://github.com/hey-Chloe/ai-research-evidence) | Source-led research notes and reproducibility ledger for AI project evidence. |
+| [Portfolio site](https://github.com/hey-Chloe/hey-Chloe.github.io) | Published project index and visual portfolio source. |
+
+</div>
+
 <!-- ============ Stats ============ -->
 <div align="center">
 
