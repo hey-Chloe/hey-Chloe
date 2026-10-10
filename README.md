@@ -1,9 +1,16 @@
 <!-- ============ Bloom Header ============ -->
 <div align="center">
 
-<img src="./bloom.svg" width="900" alt="hey-Chloe blooming banner" />
+<img src="./bloom.svg" width="900" alt="hey-Chloe blooming banner" /></div>
 
-</div>
+<!-- ============ Open Source Contribution ============ -->
+<p align="center">
+  🌱 <b>Open-source contributor to Microsoft PyRIT</b><br />
+  微软 PyRIT 开源贡献者 ·
+  <a href="https://github.com/microsoft/PyRIT/pull/2538">PR #2538 已合并 ↗</a>
+</p>
+
+
 
 <!-- ============ Sky ============ -->
 <div align="center">
