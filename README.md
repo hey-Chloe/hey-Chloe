@@ -12,6 +12,8 @@
 
 
 
+<h3>🌍 Open-source connections · 开源交流</h3><p><b>Invited to contribute to Future AGI · 收到 Future AGI 开源贡献邀请</b></p><p>Future AGI founder Nikhil reached out after discovering my work on Microsoft's <a href="https://github.com/microsoft/PyRIT">PyRIT</a>, inviting me to explore and contribute to <a href="https://github.com/future-agi/future-agi">Future AGI</a>, an open-source platform for AI agent infrastructure.</p><p>Future AGI 创始人 Nikhil 在了解我参与 Microsoft <a href="https://github.com/microsoft/PyRIT">PyRIT</a> 的工作后，来信邀请我了解并参与 <a href="https://github.com/future-agi/future-agi">Future AGI</a> 开源 AI 智能体基础设施项目。</p><details><summary>View the invitation · 查看邀请邮件（已脱敏）</summary><p><img src="./future-agi-invitation-redacted.png" width="100%" alt="Future AGI contribution invitation / Future AGI 开源贡献邀请（已脱敏）" /></p><p><sub>Sender email and Discord invite link redacted for privacy. / 已遮盖发件人邮箱及 Discord 邀请链接。</sub></p></details>
+<p><b>Agensi marketplace invitation for MiniClaudeCode · MiniClaudeCode 收到 Agensi 平台入驻邀请</b></p><p>Agensi reached out about <a href="https://github.com/hey-Chloe/MiniClaudeCode">MiniClaudeCode</a> and invited me to package its workflows as skills for their marketplace.</p><p>Agensi 因 <a href="https://github.com/hey-Chloe/MiniClaudeCode">MiniClaudeCode</a> 来信，邀请我将项目中的工作流打包为技能，并在其平台上架。</p><details><summary>View the invitation · 查看邀请邮件（已脱敏）</summary><p><img src="./agensi-invitation-redacted.png" width="100%" alt="Agensi marketplace invitation / Agensi 平台入驻邀请（已脱敏）" /></p><p><sub>Sender email redacted for privacy. / 已遮盖发件人邮箱。</sub></p></details>
 <!-- ============ Sky ============ -->
 <div align="center">
   <picture>
